@@ -6,11 +6,11 @@ function App() {
   return (
     <div>
       <TextExpander>
-        Space travel is the ultimate adventure! Imagine soaring past the stars
-        and exploring new worlds. It's the stuff of dreams and science fiction,
-        but believe it or not, space travel is a real thing. Humans and robots
-        are constantly venturing out into the cosmos to uncover its secrets and
-        push the boundaries of what's possible.
+        Call me Ishmael. Some years ago—never mind how long precisely—having
+        little or no money in my purse, and nothing particular to interest me on
+        shore, I thought I would sail about a little and see the watery part of
+        the world. It is a way I have of driving off the spleen and regulating
+        the circulation.
       </TextExpander>
 
       <TextExpander
@@ -19,18 +19,25 @@ function App() {
         collapseButtonText="Collapse text"
         buttonColor="#ff6622"
       >
-        Space travel requires some seriously amazing technology and
-        collaboration between countries, private companies, and international
-        space organizations. And while it's not always easy (or cheap), the
-        results are out of this world. Think about the first time humans stepped
-        foot on the moon or when rovers were sent to roam around on Mars.
+        In that pleasant district of merry England which is watered by the river
+        Don, there extended in ancient times a large forest, covering the
+        greater part of the beautiful hills and valleys which lie between
+        Sheffield and the pleasant town of Doncaster. The remains of this
+        extensive wood are still to be seen at the noble seats of Wentworth, of
+        Warncliffe Park, and around Rotherham. Here haunted of yore the fabulous
+        Dragon of Wantley; here were fought many of the most desperate battles
+        during the Civil Wars of the Roses; and here also flourished in ancient
+        times those bands of gallant outlaws, whose deeds have been rendered so
+        popular in English song.
       </TextExpander>
 
       <TextExpander expanded={true} className="box">
-        Space missions have given us incredible insights into our universe and
-        have inspired future generations to keep reaching for the stars. Space
-        travel is a pretty cool thing to think about. Who knows what we'll
-        discover next!
+        Sing, O goddess, the anger of Achilles son of Peleus, that brought
+        countless ills upon the Achaeans. Many a brave soul did it send hurrying
+        down to Hades, and many a hero did it yield a prey to dogs and vultures,
+        for so were the counsels of Jove fulfilled from the day on which the son
+        of Atreus, king of men, and great Achilles, first fell out with one
+        another.
       </TextExpander>
     </div>
   );
