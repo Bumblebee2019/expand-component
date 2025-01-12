@@ -20,3 +20,4 @@ This is how the component looks when it first runs:
 
 When we click on the buttons, you can see that the text expanded/collapsed accordingly:
 ![](Diagrams/No_2.png)
+
