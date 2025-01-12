@@ -15,3 +15,8 @@ A reusable React component that lets you display a preview of text and toggle it
 ---
 
 ## Demo
+This is how the component looks when it first runs:
+![](Diagrams/No_1.png)
+
+When we click on the buttons, you can see that the text expanded/collapsed accordingly:
+![](Diagrams/No_2.png)
